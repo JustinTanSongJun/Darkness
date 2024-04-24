@@ -1,0 +1,45 @@
+body{
+    border: 1px solid black;
+}
+header ,nav{
+    border: 1px solid black;
+    font-size: 30pt;
+}
+nav{
+    width: 30%;
+    background-color: beige;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+    display: block;
+    font-size: 20pt;
+    border-bottom: 1px solid black;
+    padding-top: 10px;
+}
+a:link{
+    color:chartreuse;
+}
+a:visited{
+    color: crimson;
+}
+a:hover{
+    color: azure;
+}
+a:active{
+    color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+

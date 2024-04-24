@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+HEADER {
+border: 1px solid blue;
+    text-align: center;
+}
+nav{
+    background-color: aqua ;
+    width: 20%;
+    height: 400px;
+    float:left;
+}
+section{
+border: 1px solid black;
+    width: 60%;
+    height: 400px;
+    float: left;
+}
+aside{
+border: 1px solid black;
+    width: 20%;
+    height: 400px;
+    float: left;
+}
+footer{
+    border: 1px solid blue;
+    width: 100%;
+    float: left;
+}
